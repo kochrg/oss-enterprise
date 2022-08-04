@@ -2,7 +2,7 @@
 Get started with an open source project.
 
 # Contact
-If you have questions write an email to kochrg@gmail.com
+If you have questions write an email to contact@kochrg.com.ar
 
 <!--
 # Releasing Open Source
