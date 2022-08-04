@@ -1,16 +1,16 @@
 # Availability
 
-We respond to newly opened issues within 48 hours during business hours. This is advertised in our README. It is the responsibility of the @Octocorp/maintainers team to stick to this response time.
+We respond to newly opened issues within 48 hours during business hours. This is advertised in our README. It is the responsibility of the maintainers team to stick to this response time.
 
 # Organization and repository structure
 
-All our repositories are housed within the Octocorp organization.
+All our repositories are housed within the organization.
 
 # Maintainer responsibilities
 
 ### Identifying maintainers, contributors, and the general public
 
-When interacting in a repository owned by the Octocorp organization, you are speaking on behalf of the company.
+When interacting in a repository owned by the organization, you are speaking on behalf of the company.
 
 Employees are identified with an OWNER badge.
 
